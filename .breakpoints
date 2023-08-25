@@ -1,0 +1,26 @@
+{
+  "files": {
+    "README.md": [
+      {
+        "id": "30dae4b9-32d6-40d5-84a2-536f643ccf09",
+        "line": 6,
+        "version": 1,
+        "index": 672
+      }
+    ],
+    "session_00/exercises_0.md": [
+      {
+        "id": "46fb9fbf-bef6-4045-bee0-d7b03505813b",
+        "line": 9,
+        "version": 2,
+        "index": 166
+      },
+      {
+        "id": "13b50cf6-6300-4070-8af8-85582c5606f9",
+        "line": 21,
+        "version": 2,
+        "index": 604
+      }
+    ]
+  }
+}

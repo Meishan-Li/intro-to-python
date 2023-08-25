@@ -26,7 +26,7 @@ Before you start, make sure that you are using the Shell 🐚 (not the console).
 10. Delete the roses.txt file with the `rm <file_name.txt>` command.
 
 11. Display the text "I love whippets!" to to the terminal by using `echo <text>`.
-
+ 
 12. Write the line "Whippet" in the dogs.txt file using `echo <text> > <file_name.txt>`.
 
 13. Display what is inside the dogs.txt file by using `cat <file_name.txt>`.
